@@ -22,9 +22,9 @@ The first and most important tool for doing this are **functions**.
 Much like in mathematics, functions represent an operation which can be applied to some data, to receive some other data as output.
 
 ~~~ python
-def add_one(x):
+def add_one(input_value):
     """Add one to a number."""
-    return x + 1
+    return input_value + 1
 
 print(add_one(3))
 ~~~
