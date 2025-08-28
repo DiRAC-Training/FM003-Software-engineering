@@ -58,6 +58,7 @@ Later levels imply the earlier ones. So what should we aim for? As researchers w
 > 
 > - List three things that were good about it, and three shortcomings.
 > - Which three aspects do you think should have been given greater attention during its development (or even afterwards)?
+>
 {: .challenge}
 
 ## The software development process
@@ -85,6 +86,7 @@ Following a process of development offers some major benefits:
 > ## How should it have been improved?
 >
 > For your software example used in the first exercise (or perhaps another piece of software entirely), for each problem you identified, within which stage do you think that aspect should have been addressed?
+>
 {: .challenge}
 
 > ## What about agile software development?
@@ -94,6 +96,7 @@ Following a process of development offers some major benefits:
 > With an agile approach, the software is written in a cyclical, iterative way with a focus on delivering a working product early, and incrementally adding to it over time. Whilst the above stages are largely still undertaken, they are done within a much shorter timeframe (a *timebox*) and also within a smaller scope of what will be developed. Work is undertaken in *sprints*, with software requirements prioritised for the sprint. Following a sprint (which typically lasts between 1 and 4 weeks), progress so far is demonstrated and assessed (as part of a *sprint review*), and the next timebox's requirements are then decided, at which point the process begins again within another sprint. The sprints continue until the project ends.
 > 
 > This process of reviewing requirements, prioritisation, and working on them is naturally continuous - with the benefit that at key stages you are repeatedly re-evaluating what is important and needs to be worked on which helps to ensure real concrete progress against project goals and requirements which - particularly in academia - may change over time. For a good overview of agile development in more detail, see [this resource](https://www.geeksforgeeks.org/software-engineering-agile-software-development/).
+>
 {: .callout}
 
 ## The importance of getting requirements right
@@ -138,13 +141,13 @@ In practice, these different types of requirements are sometimes confused and co
 
 {% include links.md %}
 
-## Key points:
-- "Software engineering takes a wider view of software development beyond programming (or coding)."
-- "Software you produce has inherent value."
-- "Always assume your code will be read and used by others (including a future version of yourself)."
-- "Additionally, aim to make your software reusable by others."
-- "Reproducibility is a cornerstone of science, so ensure your software-generated results are reproducible."
-- "Following a process makes development predictable, can save time, and helps ensure each stage of development is given sufficient consideration before proceeding to the next."
-- "Ensuring requirements are sufficiently captured is critical to the success of any project."
-
->{: .keypoints}
+> ## Key points
+> - "Software engineering takes a wider view of software development beyond programming (or coding)."
+> - "Software you produce has inherent value."
+> - "Always assume your code will be read and used by others (including a future version of yourself)."
+> - "Additionally, aim to make your software reusable by others."
+> - "Reproducibility is a cornerstone of science, so ensure your software-generated results are reproducible."
+> - "Following a process makes development predictable, can save time, and helps ensure each stage of development is given sufficient consideration before proceeding to the next."
+> - "Ensuring requirements are sufficiently captured is critical to the success of any project."
+>
+{: .key}
