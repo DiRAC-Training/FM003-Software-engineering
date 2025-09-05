@@ -9,10 +9,10 @@ questions:
 - "What are the different development stages?"
 objectives:
 - "Explain some of the common issues found in academic software development."
-- "Summarise the benefits of following a process of developing software"
-- "Define the fundamental stages in software development"
-- "Express how different process stages are connected"
-- "Summarise the differences between the waterfall and agile models of software development"
+- "Summarise the benefits of following a process of developing software."
+- "Define the fundamental stages in software development."
+- "Express how different process stages are connected."
+- "Summarise the differences between the waterfall and agile models of software development."
 
 ---
 
